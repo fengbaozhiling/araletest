@@ -1,0 +1,29 @@
+{
+  "family": "araletest",
+  "name": "araletest",
+  "version": "1.0.0",
+  "description": "araletest",
+  "homepage": "https://github.com/fengbaozhiling/araletest",
+  "author": "zhongliangwen",
+  "maintainers": [
+    "zhongliangwen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fengbaozhiling/araletest.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "araletest.js",
+      "araletest.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
